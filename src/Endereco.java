@@ -1,8 +1,8 @@
 
 public class Endereco {
-	public String bairro;
-	public String rua;
-	public Integer numero;
+	private String bairro;
+	private String rua;
+	private Integer numero;
 
 	public Endereco() {
 	super();
